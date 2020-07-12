@@ -71,7 +71,7 @@ With your consent or at your direction.
 
 We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
-ADVERTISING AND ANALYTICS SERVICES
+# ADVERTISING AND ANALYTICS SERVICES
 
 To perform analytics and deliver relevant content and advertising, we may allow others to collect information about how you use our Services. For example, these entities may use cookies, device identifiers and similar technologies to collect information about your computer or device, the content that interests you, the places you visit, and the time you spend using different parts of our Services.
 
@@ -89,7 +89,7 @@ Firebase (https://firebase.google.com/support/privacy)
 Facebook (https://www.facebook.com/legal/FB_Work_Privacy)
 Google (https://policies.google.com/privacy?hl=en-US)
 
-WHERE INFORMATION IS PROCESSED
+# WHERE INFORMATION IS PROCESSED
 QFIRST is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
 
 PRIVACY NOTICE UNDER GDPR AND FOR CALIFORNIA RESIDENTS
