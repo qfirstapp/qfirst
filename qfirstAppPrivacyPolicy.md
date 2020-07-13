@@ -85,9 +85,9 @@ https://adssettings.google.com/authenticated
 
 Our partners and third parties that we contract with may collect and use information from your use of QFIRST and for more information on how our partners or third parties may collect and use information from QFIRST, please refer to their privacy pages below:
 
-Firebase (https://firebase.google.com/support/privacy)
-Facebook (https://www.facebook.com/legal/FB_Work_Privacy)
-Google (https://policies.google.com/privacy?hl=en-US)
+Firebase: (https://firebase.google.com/support/privacy)
+Facebook: (https://www.facebook.com/legal/FB_Work_Privacy)
+Google: (https://policies.google.com/privacy?hl=en-US)
 
 # WHERE INFORMATION IS PROCESSED
 QFIRST is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
@@ -112,10 +112,6 @@ QFIRST allows you to access the following information about you for the purpose 
 - User preferences 
 - User Location
 - Application specific data
-
-# CAN CHILDREN USE THE APPLICATION?
-
-Our site and the services available through QFIRST are not intended for children under the age of 13. QFIRST does not knowingly or specifically collect information about children under the age of 13 and believes that children of any age should get their parents’ consent before giving out any personal information. We encourage you to participate in your child’s web experience.
 
 # CHANGES TO THIS PRIVACY POLICY.
 
