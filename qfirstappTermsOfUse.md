@@ -1,7 +1,7 @@
 # TERMS OF USE
 Last Updated: 07/04/2020
 
-QFIRST , (“QFIRST” or “we”) provides the QFIRST application and services (we call these the "Services"). By using the Services, you agree to be bound by these Terms of Use (“Terms”). If you do not agree to these Terms, including the mandatory arbitration provisions in Section 0, do not access or use the Services. If QFIRST makes changes to these Terms, we will notify you by revising the date at the top of the policy or will only allow you to login after you agree to the new policy. Your continued use of the Services will confirm your acceptance of the changes.
+QFIRST , (“QFIRST” or “we”) provides the QFIRST application and services (we call these the "Services"). By using the Services, you agree to be bound by these Terms of Use (“Terms”). If you do not agree to these Terms, do not access or use the Services. If QFIRST makes changes to these Terms, we will notify you by revising the date at the top of the policy. Your continued use of the Services will confirm your acceptance of the changes.
 
 # AUDIENCE AND ACCOUNTS
 You must be at least 13 years of age to use the Services or submit any information to QFIRST. If you are between 13 and 18 years of age, you may only use the Services under the supervision of a parent or legal guardian who agrees to be bound by these Terms.
@@ -91,7 +91,6 @@ Separate from User Content, you may submit questions, comments, feedback, sugges
 # COPYRIGHT COMPLAINTS
 QFIRST respects the intellectual property of others. If you believe that your work has been copied in a way that constitutes copyright infringement, you may email QFIRST at qfirstapp@gmail.com
 
-
 Please see 17 U.S.C. §512(c)(3) for the requirements of a proper notification. You should note that if you knowingly misrepresent in your notification that the material or activity is infringing, you may be liable for any damages, including costs and attorneys’ fees, incurred by QFIRST or the alleged infringer as the result of QFIRST’s relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing.
 
 # INTERACTIONS WITH OTHER USERS
@@ -118,7 +117,8 @@ QFIRST reserves the right to modify or discontinue, temporarily or permanently, 
 
 # TERMINATION
 QFIRST reserves the right, without notice and in its sole discretion, to terminate your license to use the Services and to block or prevent your future access to, and use of, the Services.
-QFIRST reserves the right to terminate your account at any time.
+QFIRST reserves the right, without notice and in its sole discretion, to terminate your account at any time.
+QFIRST reserves the right, without notice and in its sole discretion, to stop the services at any time.
 
 # SEVERABILITY
 If any provision of these Terms shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions.
