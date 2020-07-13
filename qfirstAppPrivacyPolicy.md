@@ -115,7 +115,7 @@ QFIRST allows you to access the following information about you for the purpose 
 
 # CHANGES TO THIS PRIVACY POLICY.
 
-QFIRST may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use personal information, we will notify you by revising the date at the top of the policy or will only allow you to login after you agree to the new policy. Users are bound by any changes to the Privacy Policy when he or she uses or otherwise accesses the Application after such changes have been first posted.
+QFIRST may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use personal information, we will notify you by revising the date at the top of the policy. Users are bound by any changes to the Privacy Policy when he or she uses or otherwise accesses the Application after such changes have been first posted.
 
 If you have any questions about this Privacy Policy, please contact us at: qfirstapp@gmail.com
 
